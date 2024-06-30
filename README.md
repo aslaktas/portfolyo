@@ -56,6 +56,13 @@ Proje indirme ve klonlama için aşağıdaki adımları inceleyin:
 Bu adımları takip ederek projeyi bilgisayarınıza indirebilir ve klonlayabilirsiniz.
 
 
+## Veritabanı Ayarları
+
+XAMPP kontrol paneli kullanarak bir MySQL veritabanı oluşturun.
+
+Projede oluşturulan veritabanı: paylastikca
+
+-
 
 
 
