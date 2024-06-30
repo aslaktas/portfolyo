@@ -1,0 +1,2 @@
+# portfolyo
+kişisel portföy hesabı
