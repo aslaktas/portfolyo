@@ -1,2 +1,4 @@
-# portfolyo
-kişisel portföy hesabı
+# DENEME BEN ASLINUR AKTAŞ
+**deenemmeeee**
+apsdjıaopsujdoıasudjoaısduaıosduoaısduoıasudoasıudaoısd
+aspdkjaosıdujaoısduaıosduoaısudoaısdas
