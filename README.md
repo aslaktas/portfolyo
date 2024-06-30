@@ -30,3 +30,51 @@ Bu sayfa, ziyaretçilerin kullanıcıyla iletişime geçebileceği bilgileri iç
 ## Kurulum
 
 Bu projeyi yerel ortamınıza kurmak için aşağıdaki adımları izleyin:
+
+## Gereksinimler
+
+Bu proje, XAMPP paketindeki Apache sunucusu ve MySQL veritabanı kullanılarak geliştirilmiştir. PHP dilinde yazılmış olan bu kişisel blog sitesi, dinamik ve etkileşimli içerik yönetimi sunar. Proje geliştirme sürecinde Visual Studio Code (VS Code) editörü tercih edilmiştir. VS Code'un sunduğu geniş eklenti desteği ve kullanıcı dostu arayüzü sayesinde proje geliştirme süreci oldukça verimli geçmiştir. 
+
+
+##Projenin İndirilmesi
+
+Proje indirme ve klonlama için aşağıdaki adımları inceleyin:
+
+1. Sağ üst köşede bulunan **"Code"** yazısına tıklayın.
+2. Menüde **"Download ZIP"** seçeneğine tıklayın ve projeyi bilgisayarınıza indirin.
+3. Git yazılımını kullanmanız gerekecektir.
+4. Terminal veya Git Bash gibi bir komut satırı aracı açın.
+5. İstediğiniz dizine gitmek için aşağıdaki komutu kullanın:
+    ```sh
+    cd path/to/your/directory
+    ```
+6. Projenin GitHub deposunun URL'sini kullanarak projeyi klonlayın:
+    ```sh
+    git clone https://github.com/aslaktas/portfolyo
+    ```
+
+Bu adımları takip ederek projeyi bilgisayarınıza indirebilir ve klonlayabilirsiniz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
