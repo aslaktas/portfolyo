@@ -62,12 +62,96 @@ XAMPP kontrol paneli kullanarak bir MySQL veritabanı oluşturun.
 
 Projede oluşturulan veritabanı: paylastikca
 
--
+
+# Veritabanı Şeması
+
+Projenizde kullanılan veritabanı tabloları ve alanları aşağıdaki gibidir:
+
+### `adres`
+| Alan Adı       | Veri Tipi |
+|----------------|-----------|
+| `id`           | int       |
+| `telefon`      | varchar   |
+| `email`        | varchar   |
+| `adres`        | text      |
+
+### `anasayfa`
+| Alan Adı       | Veri Tipi |
+|----------------|-----------|
+| `id`           | int       |
+| `baslik`       | varchar   |
+| `hakkimda`     | varchar   |
+
+### `deneyim`
+| Alan Adı       | Veri Tipi |
+|----------------|-----------|
+| `id`           | int       |
+| `sirket_adi`   | varchar   |
+| `sirket_pozisyon`| varchar |
+| `sirket_tarih`   | varchar |
+| `sirket_aciklama`   | varchar|
+
+### `egitim`
+| Alan Adı       | Veri Tipi |
+|----------------|-----------|
+| `id`           | int       |
+| `okul_adi`     | varchar   |
+| `bas_tarih`    | varchar   |
+| `okul_bölüm`   | text      |
+
+### `hakkimda`
+| Alan Adı       | Veri Tipi |
+|----------------|-----------|
+| `id`           | int       |
+| `ad_soyad`     | varchar   |
+| `email`        | varchar   |
+| `yas`          | int       |
+| `ulke`         | varchar   |
+| `hakkimda`     | varchar   |
+
+### `hizmetler`
+| Alan Adı       | Veri Tipi |
+|----------------|-----------|
+| `id`           | int       |
+| `baslik`       | varchar   |
+| `aciklama`     | varchar   |
+
+### `iletisim`
+| Alan Adı       | Veri Tipi |
+|----------------|-----------|
+| `id`           | int       |
+| `isim`         | varchar   |
+| `soyisim`      | varchar   |
+| `konu`         | varchar   |
+| `mesaj`        | varchar   |
+
+### `projeler`
+| Alan Adı       | Veri Tipi |
+|----------------|-----------|
+| `id`           | int       |
+| `p_adi`        | varchar   |
+| `p_aciklama`   | varchar   |
+| `p_resim`      | varchar   |
+
+### `referanslar`
+| Alan Adı       | Veri Tipi |
+|----------------|-----------|
+| `id`           | int       |
+| `ad_soyad`     | varchar   |
+| `sehir`        | varchar   |
+| `yorum`        | varchar   |
+
+### `yetenekler`
+| Alan Adı       | Veri Tipi |
+|----------------|-----------|
+| `id`           | int       |
+| `y_adi`        | varchar   |
+| `y_orani`      | varchar   |
+| `y_aciklama`   | varchar   |
 
 
 
-
-
+## Projenin içinde bulunan yönetici paneline erişmek için bir kullanıcı adı ve şifre belirleyin.
 
 
 
